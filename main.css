@@ -1,0 +1,33 @@
+.container__header{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.datalist{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.filter-inline-form select,
+.filter-inline-form label {
+    display: inline-block;
+    min-width: 120px;
+}
+.filter-inline-form select{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    border-radius: 4px;
+}
+.td_text{
+    width: 300px;
+}
+
+.td_type{
+   width: 150px;
+}
+
+.nav__down{
+    text-align: center;
+}
